@@ -1,0 +1,22 @@
+[
+    {
+        "event_id": 1,
+        "event_name":"Event 1",
+        "date": "2021-01-01",
+        "location": "Location 1",
+        "description": "Description 1",
+        "start_time": "10:00",
+        "end_time": "12:00",
+        "status": "active"
+    },
+    {
+        "event_id": 2,
+        "event_name":"Event 2",
+        "date": "2021-01-01",
+        "location": "Location 2",
+        "description": "Description 2",
+        "start_time": "12:00",
+        "end_time": "2:00",
+        "status": "active"
+    }
+]

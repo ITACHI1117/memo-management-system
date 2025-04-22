@@ -1,0 +1,14 @@
+@tailwind utilities;
+@import "tailwindcss";
+@import "tailwindcss/preflight";
+
+
+
+@layer base {
+    h1 {
+      @apply text-5xl text-white ;
+    }
+    .li-style {
+        @apply  text-[18px] pb-2.5 list-disc list-inside;
+    }
+  }

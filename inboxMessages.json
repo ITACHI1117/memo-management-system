@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "Image": "http://localhost:5173/src/assets/images/image1.png",
+      "sender": "Onel More",
+      "senderMail": "onelmore@gmail.com",
+      "subject": "Invitation to the team event",
+      "message":
+        "I am pleased to invite you all to our team building event that will be held next Friday, January 21st at 2 pm. The event will be held at the company's conference hall, we will have games",
+      "date": "Oct 24",
+      "longDate": "24th Dec, 2022",
+      "time": "10:00 AM",
+      "unread": true,
+      "validation": "Approved"
+    },
+    {
+        "id": 2,
+        "Image": "http://localhost:5173/src/assets/images/image1.png",
+        "sender": "Grace Collins",
+        "senderMail": "gracecollins@gmail.com",
+        "subject": "Invitation to the team event",
+        "message":
+          "Dear Team, I hope this email finds you well. As you are aware, the COVID-19 pandemic has forced many businesses to adapt to a remote work model, and we have been no exception. Over the past year, our team has been working remotely, and it has become clear that this is a viable option for us. We have been closely monitoring the situation and have observed that remote work has several benefits, such as increased productivity, cost savings, and employee satisfaction. It also allows for more flexibility and work-life balance for our team members. I would like to schedule a team meeting to discuss this proposal further and hear your thoughts and concerns. Please let me know if you have any availability next week, and we will schedule the meeting accordingly. In the meantime, please let me know if you have any questions or concerns. Thank you for your time and consideration. Best regards, Home Boy",
+        "date": "Oct 24",
+        "longDate": "24th Dec, 2022",
+        "time": "10:00 AM",
+        "unread": false,
+        "validation": "Pending"
+      },
+      {
+        "id": 3,
+        "Image": "http://localhost:5173/src/assets/images/image1.png",
+        "sender": "Mark Marner",
+        "senderMail": "markmarner@gmail.com",
+        "subject": "Invitation to the team event",
+        "message":
+          "Dear Hiring Manager, I am excited to apply for the Front-End Mobile App Developer role at Vhaye & Kess . With over two years of experience in mobile app development, I specialize in building high-performance, user-friendly applications using React Native and JavaScript. My expertise includes UI/UX design, performance optimization, API integration, and state management, ensuring seamless and responsive app experiences. I am passionate about crafting intuitive mobile solutions and continuously improving functionality and efficiency. I would love the opportunity to contribute my skills to your team. Please let me know a convenient time to discuss how I can add value to your projects. Best regards, Ajogu Joseph",
+        "date": "Oct 24",
+        "longDate": "24th Dec, 2022",
+        "time": "10:00 AM",
+        "unread": false,
+        "validation": "Approved"
+      }
+      
+]
